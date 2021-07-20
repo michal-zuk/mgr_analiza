@@ -1,0 +1,171 @@
+time,plec,wiek,stopien,zajecia,zajecia_dodatkowe,profil,Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10
+2/4/2021 10:46:29,Kobieta,23,Licencjat,Nie,Nie,"Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną, Pediatryczni",4,4,4,4,3,2,1,3,1,1,5,3,3,4,4,5,5,5,5,5,4,3,2,2,2,2,4,3,2,2
+2/4/2021 10:47:13,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Reumatologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,3,3,4,3,3,3,3,5,4,4,3,5,5,5,5,5,4,3,4,3,2,4,1,2,3,1,1
+2/4/2021 10:51:53,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,4,4,2,3,3,3,2,2,5,4,4,4,4,4,5,5,4,4,5,5,3,2,1,1,1,1,2,1
+2/4/2021 11:18:59,Kobieta,23,Licencjat,Nie,Nie,Dzieci z wadami postawy,2,2,4,3,1,1,1,3,1,1,5,3,2,4,5,5,4,4,4,4,4,4,3,4,2,2,3,2,1,1
+2/4/2021 11:19:06,Kobieta,23,Licencjat,Nie,Nie,Dzieci z wadami postawy,2,2,4,3,1,1,1,3,1,1,5,3,2,4,5,5,4,4,4,4,4,4,3,4,2,2,3,2,1,1
+2/4/2021 11:22:00,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,3,4,3,3,2,1,2,1,1,5,3,1,3,4,4,5,5,3,4,3,4,2,4,3,2,4,3,2,2
+2/4/2021 11:25:18,Mężczyzna,32,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Stomatologiczni",3,3,3,3,3,2,3,3,2,2,5,4,3,4,4,5,5,5,5,5,5,5,3,2,1,1,3,1,1,1
+2/4/2021 11:29:58,Kobieta,24,Licencjat,Nie,Nie,Ortopedyczni,4,5,3,4,3,2,1,2,2,1,5,2,3,3,5,5,5,5,5,4,4,4,3,1,1,1,2,3,1,1
+2/4/2021 12:32:11,Mężczyzna,23,Licencjat,Nie,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",3,4,4,3,3,3,2,1,1,1,4,3,2,3,4,3,4,4,4,3,3,3,3,4,3,2,4,2,1,1
+2/4/2021 13:14:03,Kobieta,23,Licencjat,Nie,Tak,"Ortopedyczni, Ginekologiczne, Urologiczni, Reumatologiczni",4,4,4,4,3,3,4,3,3,3,5,4,4,4,5,5,5,5,4,4,4,4,3,4,1,1,2,2,1,1
+2/4/2021 13:36:40,Mężczyzna,25,Magister,Nie,Nie,"Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną, Dzieci ",4,4,4,4,3,3,1,1,1,1,5,5,3,4,4,3,4,4,4,4,4,4,3,2,2,1,2,1,1,1
+2/4/2021 14:20:06,Kobieta,24,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,4,4,3,3,3,2,2,2,5,5,5,5,5,5,5,5,5,5,5,5,4,4,1,1,1,1,1,1
+2/4/2021 15:16:29,Mężczyzna,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Onkologiczni, Ginekologiczne, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,3,2,2,2,2,2,3,3,4,3,2,4,4,4,4,5,2,5,2,2,3,2,3,2,3,4,2,2
+2/4/2021 17:19:46,Kobieta,29,Magister,Tak,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",4,4,4,4,3,1,1,4,1,1,4,3,3,4,4,4,4,4,4,4,2,3,3,2,3,2,2,3,2,2
+2/4/2021 18:32:17,Mężczyzna,24,Magister,Nie,Nie,"Ortopedyczni, Reumatologiczni",3,4,4,4,2,2,1,1,1,1,4,4,1,4,4,5,5,5,5,4,2,4,3,2,1,2,4,4,1,1
+2/5/2021 22:55:14,Mężczyzna,25,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,4,4,4,4,2,2,3,2,2,4,4,3,3,5,5,5,5,5,5,3,4,3,2,2,2,2,3,2,2
+2/13/2021 10:37:06,Kobieta,25,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,5,5,5,4,3,3,3,3,5,4,4,4,5,5,5,5,5,5,4,4,4,3,2,1,2,2,2,2
+2/13/2021 10:44:51,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,3,3,3,3,3,5,3,4,4,5,4,5,5,5,4,4,4,3,3,2,2,4,2,2,2
+2/13/2021 10:48:38,Kobieta,23,Licencjat,Tak,Nie,Ortopedyczni,3,4,3,3,3,2,2,2,2,2,5,4,4,3,4,4,5,4,4,4,4,4,4,4,4,3,3,3,3,2
+2/13/2021 10:48:45,Kobieta,23,Licencjat,Tak,Nie,Osoby z niepełnosprawnością ruchową,4,4,4,4,4,4,3,4,3,3,4,3,3,4,5,4,5,5,5,4,3,3,3,3,2,2,3,3,2,2
+2/13/2021 10:50:16,Kobieta,23,Licencjat,Nie,Nie,Osoby z niepełnosprawnością ruchową,2,2,2,2,2,2,1,1,1,1,5,2,2,4,5,5,5,5,5,3,4,2,3,4,3,2,3,3,2,4
+2/13/2021 10:52:54,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,5,5,3,2,2,2,2,2,2,5,4,2,4,5,5,5,5,5,5,4,4,2,4,2,1,3,2,1,1
+2/13/2021 10:53:22,Kobieta,24,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",2,3,3,3,2,2,1,4,1,1,5,2,2,3,5,5,5,5,5,4,3,3,4,3,2,1,2,3,1,1
+2/13/2021 11:06:40,Kobieta,24,Licencjat,Nie,Nie,Pulmonologiczni,3,3,3,4,3,2,1,2,1,1,4,3,2,4,5,5,5,5,5,4,3,3,4,4,3,3,3,3,3,3
+2/13/2021 11:12:22,Kobieta,23,Licencjat,Nie,Nie,Neurologiczni,3,3,3,3,3,3,3,3,3,3,4,2,2,3,4,4,4,4,4,4,2,2,4,4,4,2,4,4,2,2
+2/13/2021 11:41:59,Kobieta,24,Licencjat,Nie,Nie, ,4,4,4,4,3,3,2,3,2,2,4,3,3,4,4,5,4,4,4,3,4,3,3,4,3,2,2,3,2,1
+2/13/2021 11:54:37,Mężczyzna,25,Magister,Nie,Tak,"Neurologiczni, Kardiologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",2,2,2,2,3,2,2,2,1,2,5,4,2,5,5,4,5,5,5,5,5,5,4,3,1,1,2,1,1,1
+2/13/2021 12:12:37,Mężczyzna,23,Licencjat,Nie,Nie,"Neurologiczni, Geriatryczni",2,2,2,3,2,2,2,2,2,2,2,1,1,2,3,4,4,5,5,5,1,1,4,2,2,1,4,5,1,1
+2/13/2021 12:30:09,Kobieta,22,Licencjat,Nie,Nie,Nie pracuję ,3,5,3,5,2,2,3,3,2,2,5,3,3,5,5,5,5,5,5,4,4,2,5,5,3,2,2,5,5,2
+2/13/2021 12:49:45,Kobieta,23,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,3,5,3,3,2,4,2,2,5,4,4,5,5,5,5,5,5,5,4,4,4,4,2,1,1,2,1,1
+2/13/2021 13:09:40,Mężczyzna,23,Licencjat,Nie,Nie,Nie pracuję ,5,5,5,2,3,2,1,4,5,4,5,4,1,2,1,2,5,4,3,5,4,4,3,1,1,1,1,2,1,1
+2/13/2021 13:55:47,Kobieta,25,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni",4,4,3,4,4,3,1,1,1,1,5,3,2,5,5,5,5,5,5,5,5,5,1,4,1,1,4,2,1,1
+2/13/2021 17:04:29,Kobieta,23,Licencjat,Nie,Nie,,4,4,3,2,2,1,1,2,1,1,4,1,1,3,4,4,4,4,5,3,1,1,4,4,4,2,4,4,3,3
+2/13/2021 17:27:44,Kobieta,24,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,4,3,4,3,3,3,3,3,3,4,3,3,5,5,5,5,5,5,5,3,3,3,3,3,1,1,1,1,1
+2/13/2021 18:46:13,Mężczyzna,23,Licencjat,Nie,Nie,"Kardiologiczni, Ortopedyczni",4,4,4,5,3,4,2,3,2,2,4,4,3,4,4,5,5,5,5,5,4,4,3,4,2,2,2,2,2,2
+2/14/2021 0:51:18,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni",3,4,4,5,4,2,1,2,1,1,5,4,5,2,5,5,5,5,5,2,5,3,5,2,2,1,2,3,1,1
+2/15/2021 11:09:18,Mężczyzna,24,Licencjat,Nie,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,3,2,2,2,1,1,1,1,1,1,1,4,4,4,5,4,4,2,1,1,5,4,5,1,4,5,2,1
+2/17/2021 10:49:08,Kobieta,30,Magister,Nie,Nie,"Ortopedyczni, Ginekologiczne, Geriatryczni",4,4,3,5,3,2,2,2,2,2,3,4,3,4,4,4,4,4,4,4,3,3,5,2,3,1,1,3,2,1
+2/17/2021 10:53:03,Kobieta,29,Magister,Nie,Nie,"Ortopedyczni, Geriatryczni",3,3,2,3,3,3,3,3,3,2,4,2,4,4,4,4,4,4,5,4,2,2,3,4,4,2,4,4,2,2
+2/17/2021 21:52:05,Mężczyzna,27,Magister,Nie,Nie,Osoby z niepełnosprawnością ruchową,3,3,2,4,3,2,1,1,1,1,4,4,3,3,4,5,5,5,5,5,3,4,2,2,2,1,3,3,1,1
+2/18/2021 21:00:32,Kobieta,26,Magister,Nie,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,4,3,3,3,1,1,1,1,4,2,1,3,4,4,5,4,5,4,2,2,5,4,4,2,3,4,2,2
+2/20/2021 11:50:58,Kobieta,26,Magister,Nie,Nie,"Ortopedyczni, Geriatryczni",3,4,2,3,3,2,2,2,2,2,2,2,1,4,5,5,5,5,5,4,3,2,3,2,3,2,4,4,2,4
+4/23/2021 15:36:09,Kobieta,25,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,3,2,4,3,3,3,2,2,2,5,4,4,4,4,4,5,5,5,4,3,2,5,5,4,2,3,3,3,4
+4/23/2021 15:37:20,Kobieta,25,Magister,Nie,Nie,"Ortopedyczni, Geriatryczni",2,3,2,2,3,2,2,2,2,2,4,2,2,4,2,2,4,4,4,2,1,1,4,4,4,3,2,4,4,4
+4/23/2021 15:39:41,Mężczyzna,31,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,4,4,4,4,3,3,5,5,5,5,5,5,3,3,3,3,3,3,1,1,1,1,1
+4/23/2021 15:40:55,Kobieta,40,Licencjat,Nie,Nie,Osoby z niepełnosprawnością intelektualną,3,3,3,4,3,2,2,2,1,2,4,4,4,4,4,4,4,4,4,4,4,4,2,2,1,1,4,2,2,1
+4/23/2021 16:08:30,Kobieta,34,Magister,Tak,Nie,Neurologiczni,5,5,5,4,4,5,3,3,3,4,5,4,4,5,5,5,5,4,4,5,5,5,5,4,1,1,2,1,1,1
+4/23/2021 16:34:56,Kobieta,26,Magister,Nie,Nie,Geriatryczni,4,4,4,4,3,3,2,3,2,1,5,4,2,5,5,4,5,5,5,5,4,3,2,3,1,1,1,1,1,1
+4/23/2021 18:16:29,Kobieta,,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Urologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",2,3,2,3,3,2,2,2,1,1,4,3,3,4,5,5,5,5,5,5,2,3,3,2,2,1,4,4,2,1
+4/23/2021 18:18:15,Kobieta,26,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni",3,4,3,4,3,2,1,1,1,1,3,2,2,3,5,5,5,5,5,4,1,1,4,4,3,1,3,3,2,1
+4/23/2021 19:10:37,Kobieta,28,Magister,Nie,Nie,"Urologiczni, Oddział Intensywnej Terapii",3,3,3,3,3,3,3,3,3,3,4,3,3,3,4,4,4,4,4,4,4,3,3,3,3,2,3,2,2,2
+4/23/2021 19:27:18,Kobieta,25,Magister,Tak,Nie,"Neurologiczni, Onkologiczni, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,3,3,3,5,4,5,5,5,5,5,5,5,4,5,5,3,1,1,1,1,1,1,1
+4/23/2021 20:03:46,Kobieta,36,Magister,Nie,Tak,"Ortopedyczni, Geriatryczni",2,3,3,3,3,2,2,2,1,2,5,3,3,5,5,5,5,5,5,5,3,3,3,3,2,3,4,3,3,2
+4/23/2021 20:08:22,Kobieta,28,Magister,Tak,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,3,2,1,1,1,1,4,2,2,4,5,5,5,5,5,5,2,3,4,3,4,1,2,3,1,1
+4/23/2021 20:40:04,Kobieta,26,Magister,Tak,Nie,"Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,1,1,1
+4/23/2021 20:53:39,Kobieta,24,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,3,3,3,3,4,3,3,5,5,4,4,4,4,4,4,4,4,4,4,2,4,2,2,2,2,2,2
+4/23/2021 21:50:52,Kobieta,35,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,3,2,2,2,1,1,1,1,1,5,5,4,4,4,5,5,5,5,5,2,2,2,2,2,1,2,2,1,2
+4/23/2021 22:51:20,Kobieta,24,Licencjat,Tak,Nie,Geriatryczni,3,5,4,4,4,4,3,3,3,3,4,2,2,5,5,5,5,5,5,3,1,2,4,5,4,2,2,2,2,2
+4/23/2021 22:51:42,Kobieta,25,Magister,Nie,Nie,"Neurologiczni, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,3,2,3,2,2,5,5,3,5,5,5,5,5,5,5,4,4,2,2,2,1,1,3,1,2
+4/23/2021 23:31:32,Kobieta,26,Licencjat,Nie,Nie,"Neurologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,4,4,4,2,2,3,2,2,4,3,3,5,5,5,5,5,5,4,2,3,2,2,3,1,2,3,1,2
+4/24/2021 0:22:14,Kobieta,24,Licencjat,Tak,Nie,"Neurologiczni, Ortopedyczni",2,2,1,3,3,2,2,2,2,2,5,3,2,4,5,4,5,5,5,4,2,2,4,2,1,1,2,4,4,1
+4/24/2021 9:30:36,Kobieta,31,Magister,Tak,Nie,"Ortopedyczni, Osoby z niepełnosprawnością ruchową",3,3,3,3,4,3,3,3,3,4,4,3,3,4,4,4,4,5,5,4,3,2,3,3,2,1,1,3,1,3
+4/24/2021 10:05:24,Kobieta,26,Licencjat,Nie,Nie,Ginekologiczne,4,4,3,5,3,2,2,2,2,2,5,3,4,4,4,4,5,5,5,4,4,4,5,3,3,2,5,2,2,2
+4/24/2021 12:42:03,Kobieta,35,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,3,3,2,3,1,1,4,4,4,4,4,4,5,5,5,5,2,4,5,5,3,3,4,5,5,5
+4/24/2021 12:47:37,Kobieta,22,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Onkologiczni, Ginekologiczne, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,5,5,4,3,3,1,2,1,1,5,4,4,4,5,5,5,5,5,5,4,4,4,2,2,1,4,1,5,5
+4/24/2021 12:49:54,Kobieta,43,Magister,Nie,Nie,"Ortopedyczni, Osoby z niepełnosprawnością ruchową",3,3,3,3,3,1,1,2,1,1,3,1,1,3,4,5,4,5,5,4,1,1,4,4,5,2,3,2,4,1
+4/24/2021 13:45:43,Kobieta,28,Magister,Nie,Nie,"Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,4,3,4,3,5,4,3,3,3,5,5,3,4,5,5,4,5,5,5,4,5,3,4,1,1,1,1,1,1
+4/24/2021 15:00:33,Kobieta,35,Magister,Nie,Nie,"Neurologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,3,5,3,2,1,2,1,2,1,2,1,2,4,4,4,4,5,3,1,1,5,3,2,1,1,5,1,2
+4/24/2021 15:00:35,Kobieta,32,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną, Osteopatia",4,5,4,5,4,3,4,3,3,3,4,3,3,3,4,4,5,5,5,4,3,4,3,4,4,4,4,4,5,5
+4/24/2021 15:12:51,Kobieta,41,Magister,Nie,Nie,Ortopedyczni,2,2,2,2,2,2,2,2,2,2,5,3,3,5,5,5,5,5,5,5,4,4,3,4,4,4,1,1,2,1
+4/24/2021 16:20:13,Kobieta,34,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Ginekologiczne, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,2,2,1,1,1,1,5,1,1,3,5,5,5,5,5,4,3,3,3,2,3,1,2,5,1,1
+4/24/2021 16:47:49,Kobieta,43,Magister,Nie,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",2,2,2,4,2,2,2,2,2,2,3,3,3,4,4,4,4,4,4,4,2,2,3,4,4,2,3,3,2,3
+4/24/2021 17:57:16,Kobieta,42,Magister,Tak,Tak,Reumatologiczni,3,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,2,2,2,2,2,1
+4/24/2021 17:59:57,Kobieta,34,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Onkologiczni, Osoby z niepełnosprawnością intelektualną",3,5,4,3,3,3,2,2,2,2,5,5,5,5,5,5,4,5,5,5,2,4,3,2,2,1,4,3,1,1
+4/24/2021 18:46:12,Kobieta,25,Magister,Nie,Nie,Pacjenci pediatryczni,4,4,3,4,2,2,1,1,1,1,5,3,3,4,5,5,5,5,5,4,4,3,3,1,1,1,3,3,1,1
+4/24/2021 19:06:43,Kobieta,30,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Urologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,2,1,1,1
+4/24/2021 19:06:48,Kobieta,30,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",2,4,3,4,3,4,2,2,2,2,4,3,3,4,5,5,5,5,5,5,4,3,2,4,2,5,3,4,1,1
+4/24/2021 19:10:56,Kobieta,26,Magister,Nie,Nie,Geriatryczni,4,4,4,4,4,3,3,3,3,3,4,3,3,3,5,5,5,5,5,5,3,3,3,3,3,4,4,3,4,3
+4/24/2021 19:17:58,Kobieta,40,Magister,Nie,Nie,Neurologiczni,5,5,3,4,4,3,3,3,3,2,5,5,3,5,5,5,5,5,3,5,4,4,3,3,2,1,2,2,1,1
+4/24/2021 19:27:16,Mężczyzna,33,Magister,Nie,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",4,4,3,4,3,2,2,3,2,1,3,3,3,4,5,5,5,5,5,5,3,4,3,2,3,1,2,3,1,1
+4/24/2021 19:28:40,Kobieta,25,Magister,Nie,Nie,"Neurologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,5,5,5,4,4,2,2,2,2,5,5,3,4,5,5,5,5,5,3,3,4,3,2,1,1,1,1,1,1
+4/24/2021 19:34:08,Kobieta,31,Magister,Nie,Nie,Ortopedyczni,4,4,4,4,2,1,1,1,1,1,5,4,2,5,5,5,5,5,5,5,2,2,5,1,2,2,2,2,1,1
+4/24/2021 19:35:42,Kobieta,36,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni",3,3,4,4,3,2,2,3,2,2,4,4,3,3,4,5,5,5,5,5,4,4,3,3,3,2,2,2,2,2
+4/24/2021 19:45:34,Kobieta,25,Licencjat,Nie,Nie,"Ortopedyczni, Geriatryczni",4,4,4,4,4,3,2,3,3,3,4,4,3,4,4,5,5,5,5,5,3,3,2,2,2,1,1,3,1,1
+4/24/2021 20:09:06,Kobieta,29,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni",4,4,4,5,2,3,3,3,3,3,5,3,3,4,5,5,5,5,5,5,3,3,2,3,1,1,1,1,1,1
+4/24/2021 20:12:04,Kobieta,29,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",3,5,3,5,4,4,2,1,1,1,4,4,3,2,4,4,4,4,4,4,2,2,4,1,2,2,2,3,3,3
+4/24/2021 20:13:54,Kobieta,44,Magister,Tak,Tak,Kardiologiczni,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,2,2,2,1,2,1,1,1
+4/24/2021 20:21:43,Kobieta,31,Magister,Nie,Tak,"Ginekologiczne, Urologiczni",4,4,4,5,4,4,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+4/24/2021 20:27:51,Kobieta,54,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,3,4,4,3,3,3,3,3,4,5,3,3,4,5,3,4,3,4,5,5,2,2,2,2,2,2,2,2
+4/24/2021 20:29:01,Kobieta,39,Magister,Nie,Tak,"Osoby z niepełnosprawnością ruchową, Dzieci ",3,4,4,5,4,5,4,1,1,4,5,5,5,5,5,5,5,5,5,5,3,4,5,5,3,3,3,1,2,1
+4/24/2021 20:31:17,Kobieta,23,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,3,3,2,2,2,2,2,2,5,4,1,5,5,5,5,5,5,5,3,2,5,4,4,1,1,1,1,1
+4/24/2021 20:45:20,Mężczyzna,24,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,5,4,4,2,4,1,2,1,1,1,1,1,5,5,5,5,5,5,1,1,1,5,5,5,1,5,5,2,4
+4/24/2021 21:08:25,Kobieta,37,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,3,4,4,2,2,2,2,2,4,4,2,3,4,4,5,5,5,5,4,4,2,2,2,1,2,2,1,1
+4/24/2021 21:08:31,Kobieta,30,Magister,Nie,Nie,Ortopedyczni,4,4,3,4,3,2,2,1,1,1,4,3,3,4,4,4,5,5,5,4,2,2,5,5,4,2,4,3,1,2
+4/24/2021 21:13:38,Kobieta,25,Magister,Nie,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,2,2,1,1,1,1,2,1,3,4,4,5,5,5,4,5,1,1,5,4,4,4,5,5,4,1
+4/24/2021 21:39:08,Kobieta,36,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Onkologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,5,3,4,3,3,2,2,2,2,5,3,2,3,5,5,5,5,5,5,2,2,3,2,2,2,2,2,2,1
+4/24/2021 22:03:59,Kobieta,25,Magister,Nie,Nie,Osoby z niepełnosprawnością ruchową,4,5,4,5,4,5,4,3,3,3,5,4,4,5,5,5,5,5,5,5,4,4,5,4,1,1,1,1,1,1
+4/24/2021 22:19:13,Mężczyzna,30,Magister,Nie,Nie,Ortopedyczni,4,4,4,4,4,3,2,4,2,1,5,4,3,5,5,4,5,5,5,5,3,3,3,2,2,1,2,4,1,1
+4/24/2021 22:25:48,Kobieta,28,Magister,Nie,Nie,"Ortopedyczni, Osoby z niepełnosprawnością ruchową",3,4,3,4,3,4,3,2,2,1,3,2,2,4,5,5,5,5,5,4,1,1,4,4,5,1,4,5,2,1
+4/24/2021 22:26:55,Kobieta,29,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Reumatologiczni, Geriatryczni",4,5,4,4,2,2,1,1,1,1,4,4,3,3,5,5,5,5,5,5,5,5,5,1,5,1,1,3,1,1
+4/24/2021 22:32:58,Kobieta,33,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Onkologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,5,3,3,4,3,4,4,4,4,4,4,4,4,4,4,3,3,3,3,2,3,2,3,2,4
+4/24/2021 22:46:50,Kobieta,45,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,3,3,3,3,3,2,2,2,2,5,4,4,4,4,5,4,4,4,4,4,4,4,4,2,1,1,1,1,1
+4/24/2021 22:57:38,Kobieta,38,Magister,Nie,Nie,Geriatryczni,4,4,4,4,4,3,3,3,3,3,4,4,3,3,3,3,3,3,4,5,3,3,3,3,3,3,3,3,3,3
+4/25/2021 9:15:53,Kobieta,37,Licencjat,Nie,Nie,"Ortopedyczni, Ginekologiczne, Urologiczni",4,3,3,5,2,2,1,1,1,1,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+4/25/2021 9:34:30,Mężczyzna,30,Magister,Nie,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,3,2,2,2,2,1,2,1,1,4,1,1,4,5,5,5,5,5,4,2,2,2,2,3,1,2,2,1,3
+4/25/2021 9:56:52,Kobieta,32,Licencjat,Nie,Nie,"Ortopedyczni, Geriatryczni",4,4,2,4,4,3,2,3,2,2,5,5,3,4,4,5,4,5,4,4,3,4,2,2,3,1,2,2,2,1
+4/25/2021 11:05:52,Mężczyzna,24,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,4,4,4,4,4,2,5,5,4,5,5,5,5,5,5,5,4,5,3,3,2,2,2,3,1,1
+4/25/2021 11:24:08,Kobieta,34,Magister,Nie,Tak,"Ginekologiczne, Urologiczni",4,4,3,5,3,2,4,2,1,3,4,4,4,4,4,4,4,4,4,4,4,4,3,2,2,1,2,2,2,1
+4/25/2021 11:51:21,Kobieta,37,Magister,Nie,Tak,"Ortopedyczni, Onkologiczni, Ginekologiczne, Urologiczni",4,4,4,5,5,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+4/25/2021 12:21:19,Kobieta,30,Magister,Nie,Tak,Osoby z niepełnosprawnością intelektualną,4,4,4,3,4,4,4,4,4,3,5,5,4,4,5,5,5,5,5,4,4,4,3,3,2,3,1,1,1,1
+4/25/2021 12:58:23,Kobieta,33,Magister,Nie,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,3,3,4,1,4,1,3,4,3,5,4,5,5,5,5,5,5,5,5,3,3,2,3,2,1,2,2,2,1
+4/25/2021 12:59:13,Kobieta,29,Licencjat,Nie,Nie,Geriatryczni,1,1,3,2,2,2,1,1,1,1,4,3,3,4,4,4,5,5,5,5,4,4,1,1,1,1,5,3,1,1
+4/25/2021 13:02:51,Kobieta,31,Magister,Tak,Nie,Ortopedyczni,4,5,3,3,3,4,3,1,1,1,2,1,1,5,5,5,5,5,5,4,1,3,2,1,2,1,2,2,1,1
+4/25/2021 13:08:31,Kobieta,49,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,4,3,4,3,2,2,3,2,1,3,2,2,2,5,5,5,5,5,3,3,2,5,5,5,4,5,5,4,3
+4/25/2021 13:44:46,Kobieta,36,Magister,Tak,Nie,Dzieci,4,3,2,4,2,3,1,2,1,1,4,2,1,4,4,3,5,4,5,4,2,2,4,4,3,5,4,4,4,5
+4/25/2021 17:05:06,Kobieta,28,Magister,Nie,Nie,Ginekologiczne,4,4,4,5,4,3,4,4,3,3,5,4,4,5,4,5,5,5,5,5,1,1,4,1,1,1,1,1,1,1
+4/25/2021 17:38:00,Kobieta,27,Magister,Nie,Nie,Geriatryczni,4,4,3,5,3,4,1,2,1,1,5,3,2,5,5,5,5,5,5,5,5,5,1,1,1,1,2,3,1,1
+4/25/2021 17:42:48,Kobieta,42,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,3,4,3,3,3,1,4,4,3,4,4,1,5,5,5,5,4,4,3,1,1,1,2,1,1,1
+4/25/2021 17:52:51,Mężczyzna,24,Licencjat,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,4,3,3,4,2,4,4,2,5,5,5,4,4,4,5,5,5,5,4,4,2,2,1,1,5,2,1,1
+4/25/2021 18:15:06,Kobieta,29,Magister,Nie,Nie,"Ortopedyczni, Ginekologiczne, Urologiczni",3,4,4,4,3,3,1,2,2,1,4,4,3,5,5,5,5,5,5,4,3,4,3,3,2,1,2,2,1,2
+4/25/2021 20:03:34,Kobieta,30,Magister,Tak,Nie,Osoby z niepełnosprawnością ruchową,3,4,3,5,3,4,3,3,3,3,5,5,4,3,4,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+4/25/2021 22:36:46,Kobieta,25,Licencjat,Nie,Nie,Ortopedyczni,4,4,3,3,3,3,3,3,3,3,4,2,1,4,4,5,4,5,5,3,3,2,4,4,3,2,4,4,2,2
+4/26/2021 17:51:08,Kobieta,26,Magister,Nie,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",4,5,4,4,3,3,2,2,1,3,5,4,4,5,5,5,5,5,5,5,3,4,2,4,2,3,4,3,3,1
+4/26/2021 18:21:20,Kobieta,25,Licencjat,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",3,4,3,3,4,3,3,3,3,3,4,2,4,4,4,4,4,4,4,4,2,2,4,4,4,2,4,4,2,2
+4/26/2021 18:41:25,Kobieta,27,Magister,Tak,Tak,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Ginekologiczne, Urologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,3,3,4,5,5,5,4,4,4,5,5,5,5,5,5,4,5,5,5,1,1,1,1
+4/26/2021 19:16:15,Kobieta,28,Magister,Tak,Nie,Ortopedyczni,3,5,4,5,3,3,3,3,3,3,5,5,3,3,5,5,5,5,5,5,4,4,5,5,1,1,1,1,1,1
+4/26/2021 20:15:47,Mężczyzna,52,Licencjat,Nie,Tak,"Neurologiczni, Kardiologiczni, Onkologiczni, Osoby z niepełnosprawnością ruchową",5,5,5,3,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5
+4/26/2021 21:23:29,Kobieta,29,Magister,Nie,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni",4,4,3,3,2,3,2,1,1,2,4,4,3,4,4,4,5,4,5,4,3,4,3,3,3,1,3,3,1,1
+4/26/2021 21:35:57,Kobieta,26,Magister,Nie,Nie,Geriatryczni,3,4,3,3,3,3,3,3,3,3,5,4,3,4,4,5,5,4,5,5,3,3,4,3,2,1,2,2,1,1
+4/26/2021 21:43:10,Kobieta,26,Magister,Nie,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,3,3,3,4,4,4,5,5,5,5,5,5,4,4,4,4,1,4,1,1,1,1,1
+4/27/2021 8:02:19,Kobieta,32,Magister,Tak,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Onkologiczni, Reumatologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową, Osoby z niepełnosprawnością intelektualną",4,4,4,4,4,4,3,3,3,3,4,4,2,3,4,4,4,4,4,4,2,2,3,2,4,2,4,2,2,2
+4/27/2021 8:27:16,Mężczyzna,27,Magister,Nie,Nie,"Ortopedyczni, sportowcy",4,4,4,2,3,1,1,1,1,3,5,5,4,4,4,5,5,5,5,5,4,4,3,1,1,1,1,1,1,1
+4/27/2021 13:05:50,Mężczyzna,41,Magister,Nie,Nie,Ortopedyczni,2,2,2,2,2,2,1,1,1,1,4,3,2,4,5,5,5,5,5,5,3,3,3,3,2,2,2,2,2,1
+5/5/2021 15:34:22,Kobieta,33,Magister,Tak,Tak,"Ortopedyczni, Onkologiczni, Ginekologiczne, Urologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",4,4,4,5,4,3,4,1,1,1,5,5,4,5,5,5,5,5,5,5,4,4,5,1,1,2,1,1,1,1
+5/5/2021 20:38:20,Kobieta,30,Magister,Nie,Tak,"Ortopedyczni, Ginekologiczne, Urologiczni",4,4,4,4,4,4,4,1,1,4,4,4,4,4,4,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4
+6/12/2021 20:19:06,Kobieta,24,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,4,3,3,4,4,3,2,4,4,5,4,4,5,5,5,5,5,5,4,4,4,2,1,1,1,1,1,1,1
+6/12/2021 20:23:23,Mężczyzna,28,Magister,Tak,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,3,4,5,3,4,4,4,4,4,5,5,5,5,4,5,5,4,4,4,1,1,1,1,2,1,1,1
+6/12/2021 20:27:08,Kobieta,32,Magister,Tak,Tak,Ginekologiczne,5,4,4,5,4,3,4,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,3,1,1,1,1,1,1,1
+6/12/2021 20:31:01,Mężczyzna,27,Magister,Tak,Nie,"Kardiologiczni, Ortopedyczni",4,4,3,3,4,4,3,4,3,4,4,4,3,5,5,4,4,4,5,4,4,4,2,2,2,1,2,2,1,1
+6/13/2021 11:07:57,Kobieta,30,Magister,Tak,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,4,4,4,4,4,4,5,5,4,5,5,5,5,5,5,4,4,4,2,1,1,1,1,1,1,1
+6/13/2021 11:10:07,Mężczyzna,35,Magister,Tak,Tak,"Neurologiczni, Osoby z niepełnosprawnością ruchową",5,5,4,4,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+6/13/2021 11:17:07,Kobieta,31,Magister,Tak,Tak,"Neurologiczni, Ginekologiczne, Urologiczni, Osoby z niepełnosprawnością ruchową",5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+6/13/2021 11:24:27,Mężczyzna,28,Magister,Tak,Nie,Ortopedyczni,4,4,4,3,4,4,3,3,4,4,4,4,3,5,5,5,5,5,5,4,3,4,2,1,1,1,1,1,1,1
+6/13/2021 13:37:51,Mężczyzna,31,Magister,Tak,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Geriatryczni",4,4,3,3,4,3,3,3,4,4,4,4,3,4,5,5,4,4,4,3,3,4,2,2,1,1,1,2,1,1
+6/13/2021 13:44:00,Kobieta,29,Magister,Tak,Tak,Ginekologiczne,5,5,4,5,4,4,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,3,1,1,1,1,1,1,1
+6/13/2021 13:49:50,Mężczyzna,33,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Osoby z niepełnosprawnością ruchową",4,3,3,3,3,4,3,3,3,3,4,4,2,4,5,4,5,5,5,4,2,4,4,2,2,1,2,2,1,1
+6/13/2021 13:56:33,Kobieta,24,Licencjat,Tak,Nie,"Neurologiczni, Kardiologiczni, Ortopedyczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,4,4,3,4,4,3,3,3,3,4,2,2,5,5,5,5,5,5,3,2,4,4,4,2,1,2,2,2,1
+6/13/2021 14:03:39,Kobieta,29,Licencjat,Tak,Tak,"Kardiologiczni, Ginekologiczne, Geriatryczni, Osoby z niepełnosprawnością intelektualną",4,5,4,4,3,3,3,3,3,4,5,5,5,5,5,5,5,5,5,5,5,5,2,1,1,1,2,1,1,1
+6/17/2021 13:24:26,Kobieta,36,Magister,Nie,Nie,"Ginekologiczne, Urologiczni",5,5,5,5,4,4,5,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,3,2,1,2,1,2,2,2
+7/8/2021 19:53:02,Mężczyzna,26,Magister,Tak,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,4,4,4,3,3,3,3,5,4,5,5,5,5,5,5,5,4,4,4,3,1,1,1,1,1,1,1
+7/8/2021 19:56:27,Mężczyzna,31,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,3,4,3,3,4,3,3,3,3,4,4,4,5,5,4,5,4,5,4,4,4,3,1,1,1,1,1,1,1
+7/8/2021 19:59:07,Kobieta,29,Magister,Tak,Nie,"Onkologiczni, Ginekologiczne, Urologiczni",5,5,4,5,4,4,4,4,4,4,5,5,5,5,5,4,5,5,5,4,4,4,2,1,1,1,1,1,1,1
+7/8/2021 20:03:47,Mężczyzna,34,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Reumatologiczni, Osoby z niepełnosprawnością ruchową",4,4,4,3,3,4,3,3,3,3,4,4,4,5,5,4,5,5,5,4,4,4,4,2,2,2,1,2,1,1
+7/8/2021 20:10:32,Mężczyzna,29,Magister,Tak,Nie,"Ortopedyczni, Onkologiczni, Urologiczni, Osoby z niepełnosprawnością ruchową",4,4,3,3,3,4,3,4,4,4,5,5,4,4,5,4,5,5,5,4,5,5,2,1,1,1,1,1,1,1
+7/8/2021 20:13:58,Kobieta,31,Magister,Tak,Tak,"Ginekologiczne, Urologiczni",5,5,4,5,4,3,4,4,4,4,5,4,5,5,5,5,5,5,5,4,5,5,1,1,1,1,1,1,1,1
+7/8/2021 20:19:34,Kobieta,27,Magister,Tak,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",4,4,3,3,3,3,3,3,3,3,4,3,2,4,4,4,5,5,5,3,2,2,3,2,2,1,2,2,1,1
+7/9/2021 12:49:16,Kobieta,27,Magister,Tak,Nie,"Kardiologiczni, Ortopedyczni",4,4,3,3,3,3,2,3,3,3,4,3,2,4,5,5,5,5,5,4,2,2,4,2,2,1,2,2,1,1
+7/9/2021 12:53:47,Mężczyzna,30,Magister,Tak,Nie,"Neurologiczni, Osoby z niepełnosprawnością ruchową",4,3,3,3,4,4,3,4,4,3,4,4,4,4,5,5,5,5,5,4,4,4,2,2,2,1,1,2,1,1
+7/9/2021 12:56:53,Kobieta,32,Magister,Tak,Tak,"Ginekologiczne, Urologiczni",4,4,4,5,3,3,4,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,2,1,1,1,1,1,1,1
+7/9/2021 12:59:55,Mężczyzna,28,Magister,Tak,Nie,Ortopedyczni,3,3,2,2,3,3,2,2,3,3,4,3,2,4,5,5,5,5,5,4,2,2,2,1,2,1,1,2,1,1
+7/9/2021 13:03:10,Kobieta,31,Magister,Tak,Nie,"Neurologiczni, Kardiologiczni, Geriatryczni",4,4,3,3,4,3,3,4,3,3,4,4,4,5,5,4,5,5,4,4,4,4,2,1,2,1,1,1,1,1
+7/9/2021 13:06:47,Kobieta,29,Magister,Tak,Tak,"Ginekologiczne, Urologiczni",5,5,4,5,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,4,4,5,2,1,1,1,1,1,1,1
+7/9/2021 13:10:12,Kobieta,33,Magister,Tak,Tak,"Ginekologiczne, Urologiczni",4,4,4,4,4,4,4,4,4,4,5,4,5,5,5,4,5,5,5,4,5,5,2,1,1,1,1,1,1,1
+7/9/2021 15:28:01,Mężczyzna,30,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",4,4,3,3,3,4,3,3,4,3,4,4,4,5,5,5,5,5,5,4,4,4,2,1,2,1,2,2,1,1
+7/9/2021 15:31:30,Kobieta,26,Magister,Tak,Nie,"Onkologiczni, Ginekologiczne, Geriatryczni",4,4,3,4,3,3,3,3,3,3,4,4,4,4,5,5,5,5,5,4,4,4,3,2,2,1,2,2,1,1
+7/9/2021 15:34:38,Mężczyzna,35,Magister,Tak,Tak,"Neurologiczni, Ortopedyczni, Osoby z niepełnosprawnością ruchową",5,4,4,3,4,5,4,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,1,1,1,1,1,1,1,1
+7/9/2021 15:37:05,Kobieta,24,Magister,Tak,Nie,"Neurologiczni, Ortopedyczni",4,4,4,3,4,4,3,3,4,4,5,4,2,5,5,5,5,5,5,5,2,2,2,1,1,1,1,2,1,1
+7/9/2021 15:39:34,Kobieta,33,Magister,Tak,Nie,"Neurologiczni, Kardiologiczni, Geriatryczni, Osoby z niepełnosprawnością ruchową",3,3,3,2,3,3,2,3,3,2,4,3,2,4,5,4,5,5,5,5,2,2,3,1,2,1,1,2,1,1
+7/9/2021 15:41:36,Kobieta,37,Magister,Tak,Tak,"Ginekologiczne, Urologiczni",5,5,4,5,4,3,4,4,3,4,5,4,5,4,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1
+7/9/2021 15:44:03,Kobieta,27,Magister,Tak,Nie,"Ortopedyczni, Reumatologiczni, Geriatryczni",3,3,3,4,3,3,2,3,3,3,4,2,4,4,5,4,5,5,5,3,2,2,3,4,2,1,2,2,1,1
