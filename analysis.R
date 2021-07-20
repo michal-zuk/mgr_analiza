@@ -265,8 +265,11 @@ pdf("results/plots_wiedza.pdf", encoding = "WinAnsi.enc")
 plots_wiedza$plots_wiedza
 dev.off()
 
+# add n counts to plots
 
+ 
+write_csv(test_output, "results/test_output")
 
- 
- 
- 
+sample = head(data_nested[[2]][[3]])
+ write_csv(sample, "results/sample_data")
+1 
