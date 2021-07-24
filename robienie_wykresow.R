@@ -1,72 +1,75 @@
 data_nested = data_longer %>% group_by(question) %>% nest()
 
+pytania = read_csv("pytania.csv")
 data_nested = data_nested %>% left_join(pytania, by = c("question" = "pytanie"))
 
 data_nested_p1 = data_nested %>% filter(question %in% c("Q1_1", "Q1_2", "Q1_3", "Q1_4", "Q1_5", "Q1_6", "Q1_7", "Q1_8", "Q1_9", "Q1_10"))
 data_nested_p2 = data_nested %>% tail(20)
 
+
+
 plots1 = data_nested_p1 %>% 
-  mutate(plots_zajecia = map(data, ~ggplot(., aes(factor(.$zajecia), .$answer, fill = factor(.$zajecia))) + 
+  mutate(plots_reuma = map2(data, tresc, ~ggplot(.x, aes(factor(.$reuma), .$answer, fill = factor(.$reuma))) + 
                                geom_violin(adjust = 1.5) + 
                                geom_boxplot(fill = "white",width = 0.1) +
                                theme_bw() +
                                theme(legend.position = "none") + 
                                scale_y_discrete(limit = 1:5, labels = c("Brak", "Słaba", "Średnia", "Dobra", "Znakomita")) +
-                               scale_x_discrete(labels = c("0" ="Brak udziału", "1" = "Udział")) +
-                               xlab("Zajęcia") +
+                               scale_x_discrete(labels = c("0" ="Nie", "1" = "Tak")) +
+                               xlab("Pracuje z pacjentami reumatologicznymi") +
                                ylab("Odpowiedź") +
-                               ggtitle(data$tresc)))
+                               ggtitle(.y)))
+
+#plots1_title = imap(plots1$plots_reuma, ~ .x + ggtitle(.$tresc))
 
 plots2 = data_nested_p2 %>% 
-  mutate(plots_zajecia = map(data, ~ggplot(., aes(factor(.$zajecia), .$answer, fill = factor(.$zajecia))) + 
+  mutate(plots_reuma = map2(data, tresc, ~ggplot(.x, aes(factor(.$reuma), .$answer, fill = factor(.$reuma))) + 
                                geom_violin(adjust = 1.5) + 
                                geom_boxplot(fill = "white",width = 0.1) +
                                theme_bw() +
                                theme(legend.position = "none") + 
                                scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
-                               scale_x_discrete(labels = c("0" ="Brak udziału", "1" = "Udział")) +
-                               xlab("Zajęcia") +
-                               ylab("Odpowiedź")+
-                               ggtitle(data$tresc)))
+                               scale_x_discrete(labels = c("0" ="Nie", "1" = "Tak")) +
+                               xlab("Pracuje z pacjentami reumatologicznymi") +
+                               ylab("Odpowiedź") +
+                               ggtitle(.y)))
+
+plots1$plots_reuma[10]
+pdf("results/plots_reuma.pdf", encoding = "ISOLatin2.enc", width = 12.1)
+plots1$plots_reuma
+plots2$plots_reuma
+dev.off()
 
 
+data_longer_wiedza = data_longer %>% filter(wiedza != 99, question != c("Q1_1", "Q1_2", "Q1_3", "Q1_4", "Q1_5", "Q1_6", "Q1_7", "Q1_8", "Q1_9", "Q1_10"))
+data_nested_wiedza = data_longer_wiedza %>% group_by(question) %>% nest() %>% left_join(pytania, by = c("question" = "pytanie"))
 
-pdf("results/test/plots_zajecia.pdf", encoding = "ISOLatin2.enc")
-plots1$plots_zajecia
-plots2$plots_zajecia
+plots_wiedza = data_nested_wiedza %>% 
+  mutate(plots_wiedza = map2(data, tresc, ~ggplot(., aes(factor(.$wiedza), .$answer, fill = factor(.$wiedza))) + 
+                              geom_violin(adjust = 1.5) + 
+                              geom_boxplot(fill = "white",width = 0.1) +
+                              theme_bw() +
+                              theme(legend.position = "none") + 
+                              scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
+                              scale_x_discrete(labels = c("0" ="Nie", "1" = "Tak")) +
+                              xlab("Pracuje z pacjentami reumatologicznymi") +
+                              ylab("Odpowiedź") +
+                              ggtitle(.y)))
+
+
+pdf("results/plots_wiedza.pdf", encoding = "ISOLatin2.enc", width = 12.1)
+plots_wiedza$plots_wiedza
 dev.off()
 
 #działający
-data_nested[[2]][[3]] %>% ggplot(aes(factor(kobieta), answer, fill = factor(kobieta))) + 
+data_nested[[2]][[3]] %>% ggplot(aes(factor(reuma), answer, fill = factor(reuma))) + 
   geom_violin(adjust = 1.5) + 
   geom_boxplot(fill = "white",width = 0.1) +
   theme(legend.position = "none") + 
   scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
-  scale_x_discrete(labels = c("0" ="Mężczyzna", "1" = "Kobieta")) +
-  xlab("Kobieta") +
+  scale_x_discrete(labels = c("0" ="Mężczyzna", "1" = "reuma")) +
+  xlab("reuma") +
   ylab("Odpowiedź")
 
 
-#test plot
-data_nested[[2]][[3]] %>% ggplot(aes(factor(kobieta), answer, fill = factor(kobieta))) +
-  geom_violin(adjust = 1.5) +
-  #theme_bw() +
-  geom_boxplot(fill = "white", width = 0.1) +
-  #theme(legend.position = "none") +
-  scale_y_discrete(
-    limit = factor(1:5),
-    labels = c(
-      "Zdecydowanie nie zgadzam się",
-      "Raczej nie zgadzam się",
-      "Nie mam zdania",
-      "Raczej zgadzam się",
-      "Zdecydowanie zgadzam się"
-    )
-  ) +
-  scale_x_discrete(labels = c("0" ="Mężczyzna", "1" = "Kobieta")) +
-  xlab("Kobieta") +
-  ylab("Odpowiedź") +
-  theme_bw() +
-  theme(legend.position = "none")
- 
 
