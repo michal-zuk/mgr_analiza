@@ -7,6 +7,7 @@
  Magister: 1- Magister, 0 - licencjat
  Zajecia: 1 - mial/a zajecia z rehabilitacji seksualnej, 0 - nie mial/a
  zajecia_dodatkowe: 1 - mial/a, 0 - nie mial/a
+ Wiedza - najpierw wyciagnalem srednia z odpowiedzi na p.1-10 każdej z osób, następnie zrobiłem scoring na wysoką (1) i niską (0) wiedzę. Wysoka to średnia > 3.5, niska to średnia < 2.5.
  Potem sa po profesjach, gdzie 1 to ktos zadeklarowal, ze pracuje z takimi pacjentami, 0 - ze nie
  
  Skroty profesji to:
