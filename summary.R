@@ -41,18 +41,18 @@ data2 = data %>% select(
   Płeć  = plec,
   "Stopień naukowy" = stopien,
   Zajęcia = zajecia,
-  "Zajęcia dodatkowe" = zajecia_dodatkowe,
-  Neurologiczni = neuro,
-  Reumatologiczni = reuma,
-  "OzN ruchową" = ozn_ruch,
-  "OzN intelektualną" = ozn_int,
-  Geriatryczni = geria,
-  Kardiologiczni = kardio,
-  Ortopedyczni = orto,
-  Urologiczni = uro,
-  Ginekologiczne = ginek,
-  Onkologiczni = onko
+  "Osoby uczestniczące w szkoleniach z rehabilitacji seksualnej" = zajecia_dodatkowe,
+  "Pacjenci neurologiczni" = neuro,
+  "Pacjenci reumatologiczni" = reuma,
+  "Pacjenci z niepełnosprawnością ruchową" = ozn_ruch,
+  "pacjenci z niepełnosprawnością intelektualną" = ozn_int,
+  "Pacjenci geriatryczni" = geria,
+  "Pacjenci kardiologiczni" = kardio,
+  "Pacjenci ortopedyczni" = orto,
+  "Pacjecnci urologiczni" = uro,
+  "Pacjentki ginekologiczne" = ginek,
+  "Pacjenci onkologiczni" = onko
 )
 
-summary = data2 %>% tbl_summary(by = Zajęcia) %>% modify_header(label ~ "**Zmienna**")
+summary = data2 %>% tbl_summary(by = Zajęcia) %>% modify_header(label ~ "**Zajęcia z rehabilitacji seksualnej na studiach**")
 summary
