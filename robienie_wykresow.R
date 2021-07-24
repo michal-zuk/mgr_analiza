@@ -9,23 +9,64 @@ plots1 = data_nested_p1 %>%
   mutate(plots_zajecia = map(data, ~ggplot(., aes(factor(.$zajecia), .$answer, fill = factor(.$zajecia))) + 
                                geom_violin(adjust = 1.5) + 
                                geom_boxplot(fill = "white",width = 0.1) +
+                               theme_bw() +
                                theme(legend.position = "none") + 
                                scale_y_discrete(limit = 1:5, labels = c("Brak", "Słaba", "Średnia", "Dobra", "Znakomita")) +
-                               xlab("zajecia") +
-                               ylab("Odpowiedź")))
+                               scale_x_discrete(labels = c("0" ="Brak udziału", "1" = "Udział")) +
+                               xlab("Zajęcia") +
+                               ylab("Odpowiedź") +
+                               ggtitle(data$tresc)))
 
 plots2 = data_nested_p2 %>% 
   mutate(plots_zajecia = map(data, ~ggplot(., aes(factor(.$zajecia), .$answer, fill = factor(.$zajecia))) + 
                                geom_violin(adjust = 1.5) + 
                                geom_boxplot(fill = "white",width = 0.1) +
+                               theme_bw() +
                                theme(legend.position = "none") + 
                                scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
-                               xlab("zajecia") +
-                               ylab("Odpowiedź")))
+                               scale_x_discrete(labels = c("0" ="Brak udziału", "1" = "Udział")) +
+                               xlab("Zajęcia") +
+                               ylab("Odpowiedź")+
+                               ggtitle(data$tresc)))
 
-myplots = plots1$plots_zajecia + plots2$plots_zajecia
+
 
 pdf("results/test/plots_zajecia.pdf", encoding = "ISOLatin2.enc")
 plots1$plots_zajecia
 plots2$plots_zajecia
 dev.off()
+
+#działający
+data_nested[[2]][[3]] %>% ggplot(aes(factor(kobieta), answer, fill = factor(kobieta))) + 
+  geom_violin(adjust = 1.5) + 
+  geom_boxplot(fill = "white",width = 0.1) +
+  theme(legend.position = "none") + 
+  scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
+  scale_x_discrete(labels = c("0" ="Mężczyzna", "1" = "Kobieta")) +
+  xlab("Kobieta") +
+  ylab("Odpowiedź")
+
+
+#test plot
+data_nested[[2]][[3]] %>% ggplot(aes(factor(kobieta), answer, fill = factor(kobieta))) +
+  geom_violin(adjust = 1.5) +
+  #theme_bw() +
+  geom_boxplot(fill = "white", width = 0.1) +
+  #theme(legend.position = "none") +
+  scale_y_discrete(
+    limit = factor(1:5),
+    labels = c(
+      "Zdecydowanie nie zgadzam się",
+      "Raczej nie zgadzam się",
+      "Nie mam zdania",
+      "Raczej zgadzam się",
+      "Zdecydowanie zgadzam się"
+    )
+  ) +
+  scale_x_discrete(labels = c("0" ="Mężczyzna", "1" = "Kobieta")) +
+  xlab("Kobieta") +
+  ylab("Odpowiedź") +
+  theme_bw() +
+  theme(legend.position = "none")
+ 
+
