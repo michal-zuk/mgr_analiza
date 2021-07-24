@@ -35,7 +35,7 @@ plots2 = data_nested_p2 %>%
                                ggtitle(.y)))
 
 plots1$plots_reuma[10]
-pdf("results/plots_reuma.pdf", encoding = "ISOLatin2.enc", width = 12.1)
+pdf("results/plots_reuma2.pdf", encoding = "ISOLatin2.enc", width = 12.1)
 plots1$plots_reuma
 plots2$plots_reuma
 dev.off()
@@ -51,8 +51,8 @@ plots_wiedza = data_nested_wiedza %>%
                               theme_bw() +
                               theme(legend.position = "none") + 
                               scale_y_discrete(limit = 1:5, labels = c("Zdecydowanie nie zgadzam się", "Raczej nie zgadzam się", "Nie mam zdania", "Raczej zgadzam się", "Zdecydowanie zgadzam się")) +
-                              scale_x_discrete(labels = c("0" ="Nie", "1" = "Tak")) +
-                              xlab("Pracuje z pacjentami reumatologicznymi") +
+                              scale_x_discrete(labels = c("0" ="Niska", "1" = "Wysoka")) +
+                              xlab("Ocena własnej wiedzy") +
                               ylab("Odpowiedź") +
                               ggtitle(.y)))
 
