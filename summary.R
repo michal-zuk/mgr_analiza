@@ -56,3 +56,8 @@ data2 = data %>% select(
 
 summary = data2 %>% tbl_summary(by = Zajęcia) %>% modify_header(label ~ "**Zajęcia z rehabilitacji seksualnej na studiach**")
 summary
+
+
+pdf("results/test/metryczka.pdf", encoding = "ISOLatin2.enc")
+summary
+dev.off()
